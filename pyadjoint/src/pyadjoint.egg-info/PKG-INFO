@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: pyadjoint
+Version: 0.0.1a0
+Summary: Python package to measure misfit and calculate adjoint sources
+Home-page: https://github.com/krischer/pyadjoint
+Author: Lion Krischer
+Author-email: krischer@geophysik.uni-muenchen.de
+License: BSD 3-Clause
+Description: Source code: https://github.com/krischer/pyadjoint
+        
+        Documentation: http://krischer.github.io/pyadjoint
+        
+        Changelog
+        ---------
+        
+Keywords: seismology,adjoint,science,tomography,inversion
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Unix
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Utilities
+Provides-Extra: docs
